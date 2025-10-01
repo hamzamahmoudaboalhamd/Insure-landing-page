@@ -69,7 +69,8 @@ Feel free to fork the repository, make improvements, and submit a pull request!
 ## 👤 Author
 
 * **[Hamza Mahmoud Aboalhamd](https://github.com/hamzamahmoudaboalhamd)**
-* [Add your LinkedIn, personal website, or portfolio link here]
+* Linkedin: https://www.linkedin.com/in/hamza-mahmoud-10a395327/
+* Portfolio: https://hamza-mahmoud.vercel.app/
 
 ---
 
